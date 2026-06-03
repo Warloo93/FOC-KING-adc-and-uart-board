@@ -1,1 +1,1 @@
-FOC-KING ADC and uart PCB
+FOC-KING ADC and UART addon board
